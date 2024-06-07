@@ -1,2 +1,1 @@
-# PRODIGY_CS_05
-Network Packet Analyzer 
+A packet sniffer tool that captures and analyzes network packets. The tool should display key details such as source and destination IP addresses, protocols, and payload data. Ensure that the tool is used ethically and for educational purposes only.
